@@ -134,3 +134,8 @@ The docker agent configuration is now successful.
 
 
 
+
+
+
+
+[![Board Status](https://dev.azure.com/ugonnamain/e99cfbee-f170-4063-bfa1-8b6188c8bb98/58bfff77-bb88-4746-b6c3-6b4eab488593/_apis/work/boardbadge/7b349e3d-44ef-4d98-8c03-ef164ca33a0d?columnOptions=1)](https://dev.azure.com/ugonnamain/e99cfbee-f170-4063-bfa1-8b6188c8bb98/_boards/board/t/58bfff77-bb88-4746-b6c3-6b4eab488593/Issues/)
